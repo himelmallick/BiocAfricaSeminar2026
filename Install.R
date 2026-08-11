@@ -1,5 +1,5 @@
 ###############################################################################
-# OMAWorkshop | Packages needed for the IntegratedLearner tutorial
+# Packages needed for the IntegratedLearner tutorial
 ###############################################################################
 
 ## --- Installers --------------------------------------------------------------
